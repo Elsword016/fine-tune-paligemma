@@ -5,7 +5,7 @@
 PaliGemma 2 and PaliGemma are lightweight open vision-language models (VLM) inspired by PaLI-3, and based on open components like the [SigLIP](https://arxiv.org/abs/2303.15343) vision model and the [Gemma language model](https://arxiv.org/abs/2403.08295). PaliGemma takes both images and text as inputs and can answer questions about images with detail and context, meaning that PaliGemma can perform deeper analysis of images and provide useful insights, such as captioning for images and short videos, object detection, and reading text embedded within images.
 
 > [!Note]
-We a blog covering SigLIP in depth please have a look if you're interested:
+We have a blog covering SigLIP in depth please have a look if you're interested:
 [Choosing Between SigLIP and CLIP for Language Image Pretraining](https://blog.ritwikraha.dev/choosing-between-siglip-and-clip-for-language-image-pretraining)
 
 Google has released three types of PaliGemma models:
